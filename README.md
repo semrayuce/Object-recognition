@@ -1,2 +1,2 @@
 # Object-recognition
-An object recognition project 
+Object recognition projects 
